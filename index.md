@@ -2,9 +2,19 @@
 
 โครงการชื่อว่า การพัฒนาแอพพลิเคชั่น Pychat App สำหรับการสื่อสารภายในองค์กร
 
-### Markdown
+### การใช้งานฝั่ง Server
+โดยขั้นเเรกต้องตั้งค่าเรื่องของ ip ก่อนโดยเข้าไปแก้โค๊ดเเละเปลื่ยน ip เป็นเครื่องของเรา
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+# setting 
+URL = 'http://192.168.1.8:8080' <- ให้ทำการเเก้ตรงนี้
+USERNAME = input("Enter you name >").encode('utf-8')
+SESSION = requests.Session()
+```
+
+
+ให้ทำการเชื่อมต่อเครือข่ายก่อนเเล้วให้ใช้คำสั่งใน terminal 
+## python servre.py
 
 ```markdown
 Syntax highlighted code block
