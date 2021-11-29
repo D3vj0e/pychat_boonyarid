@@ -26,6 +26,6 @@ SESSION = requests.Session()
 
 แล้วใช้คำสั่ง python client.py เริ่มการทำงานเเล้วใส่ชื่อผู้ใช้งานได้เลย
 
-[file here](/D3vj0e/pychat_boonyarid/archive/refs/heads/gh-pages.zip")
+[file here](https://github.com/D3vj0e/pychat_boonyarid.git)
 
 # นายบุญฤทธิ์ ยังช่วย ปวส 2/4 เลขที่ 10
