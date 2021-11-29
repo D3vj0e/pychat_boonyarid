@@ -1,5 +1,5 @@
 ## ส่งโครงการ Pychat app สามารถดาวน์โหลดเเละใช้งานได้เลย
-show_downloads: true
+
 โครงการชื่อว่า การพัฒนาแอพพลิเคชั่น Pychat App สำหรับการสื่อสารภายในองค์กร
 
 ### การใช้งานฝั่ง Server
@@ -25,5 +25,7 @@ SESSION = requests.Session()
 ```
 
 แล้วใช้คำสั่ง python client.py เริ่มการทำงานเเล้วใส่ชื่อผู้ใช้งานได้เลย
+
+[file here](/D3vj0e/pychat_boonyarid/archive/refs/heads/gh-pages.zip")
 
 # นายบุญฤทธิ์ ยังช่วย ปวส 2/4 เลขที่ 10
